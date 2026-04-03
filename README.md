@@ -3,13 +3,13 @@
 <br>
 
 ```
-                   888'Y88                                                                 
-                   888 ,'Y Y8b Y888P  ,e e,  888,8,  e88 888 888,8,  ,e e,   ,e e,  888 8e 
-                   888C8    Y8b Y8P  d88 88b 888 "  d888 888 888 "  d88 88b d88 88b 888 88b
-                   888 ",d   Y8b "   888   , 888    Y888 888 888    888   , 888   , 888 888
-                   888,d88    Y8P     "YeeP" 888     "88 888 888     "YeeP"  "YeeP" 888 888
-                                                          ,  88P                               
-                                                         "8",P"                                
+               888'Y88                                                                 
+               888 ,'Y Y8b Y888P  ,e e,  888,8,  e88 888 888,8,  ,e e,   ,e e,  888 8e 
+               888C8    Y8b Y8P  d88 88b 888 "  d888 888 888 "  d88 88b d88 88b 888 88b
+               888 ",d   Y8b "   888   , 888    Y888 888 888    888   , 888   , 888 888
+               888,d88    Y8P     "YeeP" 888     "88 888 888     "YeeP"  "YeeP" 888 888
+                                                  ,  88P                               
+                                                 "8",P"                                
 ```
 
 ### a deep green windows 11 rice
@@ -34,20 +34,15 @@
 
 <div align="center">
 
-| Desktop | Terminal |
-|:---:|:---:|
-| `screenshot here` | `screenshot here` |
+| Image 1 | Image 2 | Image 3 |
+|:---:|:---:|:---:|
+| <img width="1919" height="1040" alt="Screenshot 2026-04-03 122817" src="https://github.com/user-attachments/assets/9de6a2d5-067d-41d2-86d3-22162811f933" /> | <img width="1917" height="28" alt="Screenshot 2026-04-03 122813" src="https://github.com/user-attachments/assets/b9e64927-481d-4e9e-baeb-f1cb6a2c9790" /> | <img width="1917" height="964" alt="Screenshot 2026-04-03 123046" src="https://github.com/user-attachments/assets/5126cb96-03b1-4394-8f29-a9bd79c6b19e" /> |
 
-| Spotify (Spicetify) | Discord |
+| Image 4 | Image 5 |
 |:---:|:---:|
-| `screenshot here` | `screenshot here` |
-
-| Cava | Winfetch |
-|:---:|:---:|
-| `screenshot here` | `screenshot here` |
+| <img width="1918" height="1031" alt="Screenshot 2026-04-03 123008" src="https://github.com/user-attachments/assets/5e3e4370-d066-403f-b02c-f6b927d852c7" /> | <img width="1918" height="1026" alt="Screenshot 2026-04-03 122953" src="https://github.com/user-attachments/assets/6fa720e4-6035-4e1b-a0fe-41266488821b" /> |
 
 </div>
-
 ---
 
 ## Software Stack
